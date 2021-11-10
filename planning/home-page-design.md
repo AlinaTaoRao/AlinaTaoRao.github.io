@@ -1,10 +1,8 @@
 # Alina Tao's homepage
 
-Alina is a student at HYB. She is learning coding to
-become a great Front-End Developer.
-She studied bio-chemistry.
-She has a lot of wonderful projects in mind.
-she accepted to answer to few questions I asked her.
+Alina is a student at HYB. She is learning coding to become a great Front-End
+Developer. She studied bio-chemistry. She has a lot of wonderful projects in
+mind. she accepted to answer to few questions I asked her.
 
 ## 1. Steps
 
@@ -38,20 +36,21 @@ she accepted to answer to few questions I asked her.
 
 1 - **What are your main objectives when you visit a home page?**
 
-Firstly, I want to know what the webpage is about. It means the purpose of this website.
-Secondly, I want to know if this website has anything that might interest me.
+Firstly, I want to know what the webpage is about. It means the purpose of this
+website. Secondly, I want to know if this website has anything that might
+interest me.
 
 2 - **What do you put forward when you present yourself as a junior developer?**
 
 Firstly, I present who I am. Secondly, I present my porto-folio and what I do.
 Thirdly, I communicate my contact details so people can get in touch with me.
 
-3 - **Would you like communicating your educational background on your homepage?**
+3 - **Would you like communicating your educational background on your
+homepage?**
 
-No. I would not like communicating my educational background on my homepage.
-I prefer sharing the link of my LinkedIn profile.
-So people can get more information there. I think
-is efficient in that way.
+No. I would not like communicating my educational background on my homepage. I
+prefer sharing the link of my LinkedIn profile. So people can get more
+information there. I think is efficient in that way.
 
 4 - **What did you study?**
 
@@ -59,34 +58,26 @@ I studied bio-chemistry. Now I want to become a great Front-End Developer.
 
 5 - **Why do you want to become a developer?**
 
-When the pandemic (COVID-19) started, I realized how
-important it was to be able to work remotely.
-And I noticed that with jobs like web
-development, this is possible.
-I then decided to study something
-that can allow me to work remotely.
+When the pandemic (COVID-19) started, I realized how important it was to be able
+to work remotely. And I noticed that with jobs like web development, this is
+possible. I then decided to study something that can allow me to work remotely.
 
-The second reason is that today,
-digital is everywhere. And digital
-skills are highly needed nowadays in the job market.
+The second reason is that today, digital is everywhere. And digital skills are
+highly needed nowadays in the job market.
 
-The third reason is the fact that
-with digital, you can change many
-things in the world for the better.
+The third reason is the fact that with digital, you can change many things in
+the world for the better.
 
 6 - **What are your current challenge?**
 
-I need to learn more programmes.
-I started from zero. So I need to
-work hard to improve my skills.
+I need to learn more programmes. I started from zero. So I need to work hard to
+improve my skills.
 
 7 - **Do you want to work on your own or be employee?**
 
-Yes. But from the beginning,
-I would like to find a job after my cursus at HYF.
-I would like to work at a big company or any relevant
-company to gain professional experience.
-After a few years, I will start my own business.
+Yes. But from the beginning, I would like to find a job after my cursus at HYF.
+I would like to work at a big company or any relevant company to gain
+professional experience. After a few years, I will start my own business.
 
 ### Notes during the interview with the stakeholder
 
@@ -94,28 +85,17 @@ _See answers above._
 
 ### The summary of the interview with the stakeholder
 
-Alina is an open-mind person.
-She has a project to run her own company.
-However, she acknowledged that she needs
-to gain some professional experience
-before deploying her wings.
-She focuses on what is essential.
-For example, when she visits a website,
-she wants to know if this website has
-anything that might interest her.
-When she introduces herself, she likes presenting her personality first.
-And then what she knows and can do.
-Alina pays attention to wha happens
-around her and tries to seize opportunities.
-She is aware that today, digital is everywhere.
-And digital skills are highly needed nowadays
-in the job market. She then decided
-to study web development.
-She is open using online tools
-to communicate efficiently. She is not
-afraid of social media. She is familiar
-with group projects.
-She has experience in working in team.
+Alina is an open-mind person. She has a project to run her own company. However,
+she acknowledged that she needs to gain some professional experience before
+deploying her wings. She focuses on what is essential. For example, when she
+visits a website, she wants to know if this website has anything that might
+interest her. When she introduces herself, she likes presenting her personality
+first. And then what she knows and can do. Alina pays attention to wha happens
+around her and tries to seize opportunities. She is aware that today, digital is
+everywhere. And digital skills are highly needed nowadays in the job market. She
+then decided to study web development. She is open using online tools to
+communicate efficiently. She is not afraid of social media. She is familiar with
+group projects. She has experience in working in team.
 
 ---
 
@@ -127,66 +107,50 @@ She has experience in working in team.
 
 What I look first are pictures and the navigation bar.
 
-2 - **What are the information that you find not useful in any junior developer homepage?**
+2 - **What are the information that you find not useful in any junior developer
+homepage?**
 
-I do not have a right answer.
-Because I have not visited many
-junior web-developer homepages yet.
-I have only visited few junior web-developer homepages.
-And I found them quite attractive. The design was nice.
-I noticed that they had navigation bars,
-social media icons and pictures.
+I do not have a right answer. Because I have not visited many junior
+web-developer homepages yet. I have only visited few junior web-developer
+homepages. And I found them quite attractive. The design was nice. I noticed
+that they had navigation bars, social media icons and pictures.
 
 3- **Do you pay attention to design when you visit a webpage?**
 
-Yes. For me, the design is the most
-important. It counts for 100%.
-If I do not find the design of
-a homepage attractive,
-I will stop visiting the website.
+Yes. For me, the design is the most important. It counts for 100%. If I do not
+find the design of a homepage attractive, I will stop visiting the website.
 
 4 - **Do you give up easily when you face any difficulty?**
 
-It depends on the situation. But most of the times,
-I try to resolve issues that I face.
+It depends on the situation. But most of the times, I try to resolve issues that
+I face.
 
 5 - **What do you think about Open source?**
 
-In my opinion, Open source
-is a good idea because people
-in different locations around
-the world can work together.
-With Open source, everyone can
-access to the source and contribute.
-In the future, I would like contributing
-in an Open source project
-if I have time and opportunity.
+In my opinion, Open source is a good idea because people in different locations
+around the world can work together. With Open source, everyone can access to the
+source and contribute. In the future, I would like contributing in an Open
+source project if I have time and opportunity.
 
-6 - **What are your criteria in terms of job opportunities?**
-**Do you pay more attention to what aspect of a job announcement?**
+6 - **What are your criteria in terms of job opportunities?** **Do you pay more
+attention to what aspect of a job announcement?**
 
-First, the missions of the position.
-Secondly, The location.
-Thirdly, the skills and implications that the job requires.
-Fourth, I ask to myself if I am interested in the job.
-Fifth, the salary.
+First, the missions of the position. Secondly, The location. Thirdly, the skills
+and implications that the job requires. Fourth, I ask to myself if I am
+interested in the job. Fifth, the salary.
 
-The salary is the last aspect because as
-a junior web-developer, I do not have
+The salary is the last aspect because as a junior web-developer, I do not have
 enough professional experience at the moment.
 
 7 - **Do you like working in team or alone?**
 
-I like working in team in the big projects.
-I like also working alone when the task
-or project is not big.
-I am used to working in team. Before HYF,
-I often worked in team in a laboratory.
+I like working in team in the big projects. I like also working alone when the
+task or project is not big. I am used to working in team. Before HYF, I often
+worked in team in a laboratory.
 
 8 - **What is you fear concerning professional career?**
 
-I am apprehensive about working overtime.
-I am afraid of overtime.
+I am apprehensive about working overtime. I am afraid of overtime.
 
 9 - **What is your next project?**
 
@@ -198,18 +162,12 @@ _See answers above._
 
 ### The summary after the interview with the user
 
-Alina pays attention to the design
-of webpages. She likes when a webpage
-has nice pictures and navigation bar.
-She works hard to accomplish what she
-believes in. She believes that Open
-source is a good idea because it
-allows free collaboration and sharing.
-This fits in with her philosophy of life
-in general. As she likes working in team.
-As far as job opportunities are concerned,
-she focuses more on  the tasks and missions
-of the job/position than on the salary.
+Alina pays attention to the design of webpages. She likes when a webpage has
+nice pictures and navigation bar. She works hard to accomplish what she believes
+in. She believes that Open source is a good idea because it allows free
+collaboration and sharing. This fits in with her philosophy of life in general.
+As she likes working in team. As far as job opportunities are concerned, she
+focuses more on the tasks and missions of the job/position than on the salary.
 For her, gaining work experience is more important.
 
 ---
@@ -309,6 +267,7 @@ For her, gaining work experience is more important.
   - _user's name_ needs a way to _?_.
     - Unexpectedly, in her/him world, _?_.
 -->
+
 ---
 
 ## 5. Open-Ended Ideation
@@ -320,7 +279,7 @@ For her, gaining work experience is more important.
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [wireframe name](...)
+- [wireframe name](https://alinataorao.github.io/)
 - ...
 
 ## Open-Ended Ideation: User
@@ -330,7 +289,7 @@ For her, gaining work experience is more important.
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [wireframe name](...)
+- [wireframe name](https://alinataorao.github.io/)
 - ...
 
 ---
