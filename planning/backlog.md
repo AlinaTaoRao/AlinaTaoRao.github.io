@@ -11,6 +11,7 @@ As a layman user, I can navigate comfortably the home page.
 - [ ] _there is a footer_
 - [ ] _there is a logo on top of the page_
 - [ ] _there is a paragraph explaining the purpose on the page_
+- [ ] _there is a picture and short bio of the owner of the webpage_
 
 As a student in web-development, I can find various contacts in the home page
 and future digital entrepreneur. So that:
