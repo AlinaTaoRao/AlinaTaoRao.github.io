@@ -1,18 +1,13 @@
 # User Personas
 
-<!-- some introduction -->
+## Personas 1
 
----
+[Link to the personas 1](https://www.semrush.com/persona/share/MGKtXv1nRFk3TPsC5mZ2uPyElUOhCiI41XE7grsoU2g/)
 
-<!-- a persona -->
+## Personas 2
 
-## Their Role
+[Link to the personas 2](https://www.semrush.com/persona/share/q1jTBF670Gq9sgIh4O2NrQUBKuXikPDlgmebbtzMLWg/)
 
-- **Bio**:
-- **Needs/Goals**:
-- **Frustrations**:
-- **Scenario 1**:
+## Personas 3
 
----
-
-<!-- more personas ... -->
+[Link to the personas 3](https://www.semrush.com/persona/share/_yCkqJ0WrxZB9yzL3k9uCjH-LlNgEHS8x_xBLzb1XFo/)
