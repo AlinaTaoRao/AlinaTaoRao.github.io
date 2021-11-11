@@ -2,8 +2,8 @@
 
 Alina is a student at HYF. She is learning coding to become a great Front-End
 developer. She studied bio-chemistry. she accepted to answer to few questions I
-asked her as a future user of a junior web-developer's homepage.
-As a UX/UI Designer, I ran interviews based on the design thinking process.
+asked her as a future user of a junior web-developer's homepage. As a UX/UI
+Designer, I ran interviews based on the design thinking process.
 
 ## 1. Steps
 
