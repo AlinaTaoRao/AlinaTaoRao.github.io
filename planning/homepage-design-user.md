@@ -137,7 +137,7 @@ way to allow users to navigate through a webpage across various devices.
 Alina pays attention to the design of webpages. She likes when a webpage has
 nice pictures and navigation bar. In the future, Alina would like contributing
 in an Open source project if she has time and opportunity. She is open to learn
-more coding programmes.
+more coding programmes. Alina
 
 ### Insights about the user
 

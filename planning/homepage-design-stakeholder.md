@@ -134,7 +134,8 @@ group projects. She has experience in working in team.
 
 She wants the homepage to be attractive (user-friendly) for users. The page
 should be responsive and has a porto-folio colors and pictures She wants to keep
-content shorts and highlight her porto-folio.
+content shorts and highlight her porto-folio. Alina wants to share her knowledge
+with her friends and classmates.
 
 ### Insights about the stakeholder
 
