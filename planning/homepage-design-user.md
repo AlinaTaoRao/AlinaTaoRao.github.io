@@ -121,7 +121,8 @@ What can impede/block Alina to use a webpage are:
 
 Alina focuses less on the porto-folio when she visits a homepage of a Junior
 Developer. Because she is not an employer. She focuses more on the design
-(buttons, headers, navigation bar, etc.).
+(buttons, headers, navigation bar, etc.). She looks ahead to collaborate with
+others students.
 
 ## 3. Capture Findings
 
