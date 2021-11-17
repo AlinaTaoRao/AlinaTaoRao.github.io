@@ -37,7 +37,7 @@ that your code will pass before pushing by running `npm run lint:md` locally.
 
 ## License
 
-See [LICENSE](LICENSE) file.
+See [LICENSE.md](LICENSE) file.
 
 ## Contributor Guidelines
 
