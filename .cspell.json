@@ -13,7 +13,8 @@
     "stylelint",
     "syle",
     "testcase",
-    "wireframes"
+    "wireframes",
+    "wontfix"
   ],
   "ignorePaths": [
     "node_modules/**",

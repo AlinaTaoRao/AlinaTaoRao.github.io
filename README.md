@@ -5,8 +5,7 @@
 This is a personal portfolio homepage. In the planning part, my dear classmate
 Maurice Mateke helped me and he served as a UX/UI designer.
 
-Alina's Home Page
-[live demo](https://AlinaTaoRao.github.io)
+Alina's Home Page [live demo](https://AlinaTaoRao.github.io)
 
 ## Getting Started
 
