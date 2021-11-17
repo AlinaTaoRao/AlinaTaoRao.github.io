@@ -1,6 +1,6 @@
 # Contributing
 
-## How do I...
+## How do I
 
 - [Use This Guide](#introduction)?
 - Ask or Say Something? 🤔🐛😱
@@ -39,7 +39,7 @@ The [Project Team](#join-the-project-team) looks forward to your contributions.
 If you have a question about this project, how to use it, or just need
 clarification about something:
 
-- Open an Issue at https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/issues
+- Open an Issue at <https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/issues>
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (nodejs, npm, etc), depending on what
   seems relevant. If not, please
@@ -59,7 +59,7 @@ Once it's filed:
 
 If you run into an error or bug with the project:
 
-- Open an Issue at https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/issues
+- Open an Issue at <https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/issues>
 - Include _reproduction steps_ that someone else can follow to recreate the bug
   or error on their own.
 - Provide project and platform versions (nodejs, npm, etc), depending on what
@@ -90,7 +90,7 @@ Once it's filed:
 
 If the project doesn't do something you need or want it to do:
 
-- Open an Issue at https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/issues
+- Open an Issue at <https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/issues>
 - Provide as much context as you can about what you're running into.
 - Please try and be clear about why existing features and alternatives would not
   work for you.
@@ -159,7 +159,7 @@ To contribute documentation:
 - Write clear, concise commit message(s) using
   [conventional-changelog format](https://github.com/conventional-changelog/conventional-changelog-angular/blob/master/convention.md).
   Documentation commits should use `docs(<component>): <message>`.
-- Go to https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/pulls and open a
+- Go to <https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/pulls> and open a
   new pull request with your changes.
 - If your PR is connected to an open issue, add a line in your PR's description
   that says `Fixes: #123`,
@@ -206,7 +206,7 @@ To contribute code:
   the message must use the
 - format: `<prefix>(deps): PKG@VERSION`, where `<prefix>` is any of the usual
   `conventional-changelog` prefixes, at your discretion.
-- Go to https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/pulls and open a
+- Go to <https://github.com/AlinaTaoRao/AlinaTaoRao.github.io/pulls> and open a
   new pull request with your changes.
 - If your PR is connected to an open issue, add a line in your PR's description
   that says `Fixes: #123`, where `#123` is the number of the issue you're
@@ -326,7 +326,7 @@ To clean up issues and PRs:
   - does not belong to a milestone
 - Leave a message when closing saying "Cleaning up stale issue. Please reopen or
   ping us if and when you're ready to resume this. See
-  https://github.com/wealljs/weallcontribute/blob/latest/CONTRIBUTING.md#clean-up-issues-and-prs
+  <https://github.com/wealljs/weallcontribute/blob/latest/CONTRIBUTING.md#clean-up-issues-and-prs>
   for more details."
 
 ## Review Pull Requests
