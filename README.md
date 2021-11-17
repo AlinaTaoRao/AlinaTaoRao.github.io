@@ -7,16 +7,9 @@ Maurice Mateke helped me and he served as a UX/UI designer.
 
 Alina's Home Page [live demo](https://AlinaTaoRao.github.io)
 
-## Getting Started
-
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
-
 ## Code Quality Checks
 
+- `npm install`
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
 - `npm run lint:ls`: Checks to make sure all folder and file names match the
@@ -42,16 +35,10 @@ this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
 If the linting fails, you will not be able to merge the PR. You can double check
 that your code will pass before pushing by running `npm run lint:md` locally.
 
-## Repo Setup
+## License
 
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+See [LICENSE](LICENSE) file.
+
+## Contributor Guidelines
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) file.
