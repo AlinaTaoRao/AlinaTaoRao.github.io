@@ -24,4 +24,5 @@ I opted for a pure design.
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
-[link to wireframe](<https://www.figma.com/file/USp9EFowgAqTaNs9bzdOQC/Wireframing-(Copy)?node-id=0%3A1>)
+[link to wireframe](https://www.figma.com/file/USp9EFowgAqTaNs9bzdOQC/Wireframing-(Copy)?node-id=0%3A1)  
+[link to figma](https://www.figma.com/file/9m8PxA1UltzM8kaz0qlDhR/Alina-home?node-id=0%3A1)
